@@ -25,10 +25,9 @@
   <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
 </a>
 
-<p>&emsp;&emsp;嗨，你好，我是小🐏同学。热爱编程、健身、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+- :hearts: 嗨，你好，我是小🐏同学。热爱编程、健身、读书、旅行。</p>
+- :1st_place_medal: 热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+- :sun_with_face: 我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 
 </td></tr>
 
