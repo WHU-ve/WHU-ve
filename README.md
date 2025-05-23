@@ -8,7 +8,7 @@
 </span>
 
 <div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHU-ve" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHU-ve&theme=react-dark" />
 </div>
 
 <!--
