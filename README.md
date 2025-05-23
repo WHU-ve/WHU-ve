@@ -28,6 +28,11 @@
 - :hearts: 嗨，你好，我是小🐏同学。热爱编程、健身、读书、旅行。</p>
 - :1st_place_medal: 热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 - :sun_with_face: 我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<br/>
+<br/>
+<br/>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/WHU-ve/count.svg)th visitor
 
 </td></tr>
 
