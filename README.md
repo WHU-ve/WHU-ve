@@ -40,7 +40,6 @@
   </a>
 </p>
 
----
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
 	<img  src="https://github-profile-trophy.vercel.app/?username=WHU-ve&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
@@ -121,9 +120,9 @@
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WHU-ve/WHU-ve/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WHU-ve/WHU-ve/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/WHU-ve/WHU-ve/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
