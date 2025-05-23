@@ -32,6 +32,22 @@
 <br>
 </div>
 
+### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,raspberrypi,docker,vim,pycharm,mysql" />
+  </a>
+</p>
+
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yxn4065&abbreviated=true&color=yellow" />
+<a href="https://github.com/yxn4065"><img src="https://img.shields.io/badge/GitHub-yxn4065-blue?logo=github" /></a>
+<a href="https://yxn4065.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
+<img src="https://img.shields.io/badge/QQ-2038865970-green?logo=tencentqq" />
+<img href="mailto:xenon4065@gmail.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
+</p>
+
 <span>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
