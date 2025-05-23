@@ -17,23 +17,23 @@
 
 <table align="center" width="100%">
   <tr>
-    <td style="display: flex; align-items: flex-start; justify-content: space-between; vertical-align: top;">
-      <div>
-        <h3>🤺 About Me</h3>
-        <ul>
-          <li>💖 嗨，你好，我是小🐏同学。热爱编程、健身、读书、旅行。</li>
-          <li>🥇 热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</li>
-          <li>🌞 我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</li>
-        </ul>
-      </div>
-      <div style="text-align: center;">
-        <a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-          <img alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
-        </a>
-      </div>
+    <td style="text-align: left; vertical-align: top;">
+      <h3>🤺 About Me</h3>
+      <ul>
+        <li>💖 嗨，你好，我是小🐏同学。热爱编程、健身、读书、旅行。</li>
+        <li>🥇 热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</li>
+        <li>🌞 我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</li>
+      </ul>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
+        <img alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+      </a>
     </td>
   </tr>
 </table>
+
+
 
 
 <span>
