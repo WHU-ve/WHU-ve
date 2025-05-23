@@ -30,7 +30,9 @@
 - :telescope: We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
 
 </div>
+
 ---
+
 ### ⚡Skills
 <p align="center">
   <a href="https://skillicons.dev">
