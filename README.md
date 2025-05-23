@@ -21,7 +21,9 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
+  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+</a>
 
 <p>&emsp;&emsp;嗨，你好，我是小🐏同学。热爱编程、健身、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
