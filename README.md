@@ -46,8 +46,6 @@
 </div>
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/bigorange18?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
----
-
 <br>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -117,13 +115,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WHU-ve/WHU-ve/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WHU-ve/WHU-ve/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/WHU-ve/WHU-ve/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
 
 </div>
 
