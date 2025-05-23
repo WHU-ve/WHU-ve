@@ -31,12 +31,14 @@
 
 </div>
 
-### Skills
+### ⚡Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,raspberrypi,docker,vim,pycharm,mysql" />
   </a>
 </p>
+
+<br>
 
 <span>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
