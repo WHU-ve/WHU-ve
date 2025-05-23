@@ -1,14 +1,15 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&width=435&lines=I'm%20ve%2C%20welcome%21;欢迎来到小🐏同学的小屋!&center=true&size=27)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&width=435&lines=I'm%20ve%2C%20welcome%21;欢迎来到小🐏同学的小屋!&center=true&size=27" />
+  </a>
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" height="225px" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
