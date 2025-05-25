@@ -1,6 +1,6 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
-  <a href="https://sunguoqi.com/">
+  <a>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20ve%2C%20welcome%21;欢迎来到小🐏同学的小屋!&center=true&size=27&font=Comic%20Sans%20MS">
   </a>
   <br> <!-- This line forces a line break -->
