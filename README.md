@@ -166,10 +166,6 @@ windows                  5 hrs               ███████████�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHU-ve&theme=react-dark" />
 </div>
 
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img  width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
 
 <!--
 **WHU-ve/WHU-ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
