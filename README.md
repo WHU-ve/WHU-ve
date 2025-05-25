@@ -38,15 +38,17 @@
 - [基于原型网络的 LoRA 后门少样本防御体系] 成员   📌 2024-09 —— 2025-03
 - [基于大语言模型的交通场景要素关系识别]   成员   📌 2024-09 —— 2025-05
 
-
-
----
-
 <!-- GitHub 奖杯🏆 -->
-
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div align="center">
 	<img  src="https://github-profile-trophy.vercel.app/?username=WHU-ve&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+
+<!-- GitHub 数据统计 -->
+
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WHU-ve&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
+
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/bigorange18?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
 <br>
@@ -89,6 +91,7 @@ windows                  5 hrs               ███████████�
 
 
 <!-- ########################################## 分割 ########################################## -->
+### ⚡ Skills
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
@@ -97,7 +100,6 @@ windows                  5 hrs               ███████████�
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
 
-### ⚡ Skills
 <!--  skill badge 技能徽章 -->
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
