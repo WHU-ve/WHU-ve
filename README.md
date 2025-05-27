@@ -31,7 +31,6 @@
 
 </div>
 
-
 ---
 
 ### 🏢 Project Experience
@@ -90,7 +89,6 @@ cursor                   1 hr  50 mins       █████████░░�
 windows                  5 hrs               █████████████████████████   100.00 % 
 ```
 
-
 <!-- ########################################## 分割 ########################################## -->
 ### ⚡ Skills
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -99,7 +97,6 @@ windows                  5 hrs               ███████████�
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
-
 
 <!--  skill badge 技能徽章 -->
 
@@ -166,7 +163,6 @@ windows                  5 hrs               ███████████�
 <div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHU-ve&theme=react-dark" />
 </div>
-
 
 <!--
 **WHU-ve/WHU-ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
